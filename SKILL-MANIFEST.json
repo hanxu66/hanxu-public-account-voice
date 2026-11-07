@@ -1,0 +1,18 @@
+{
+  "name": "hanxu-public-account-voice",
+  "version": "0.1.0",
+  "repository": "hanxu-public-account-voice",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "e76322a5ad11864737c2c0d7053e1f599f8ed1bde59d152cf50575b6c878ec39",
+    "SKILL.md": "e9b0bc690b398c4259917d49cb91c8356e23e6d3ab881aec7a8bf8068f1806fa",
+    "VALIDATION.md": "16f75f793921fe6e7523c100d6c2a8c968366a34da74e9048825c71e83e515e3",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "b09055e59ca7e6dbeecc69d357dff7233c7da4ea03a98810e93e5036c935bac2",
+    "references/个人文章表达校准.md": "07f7f9ba80f182c7777774db22da952506dc6d193c69cfd5b2b9d19112579c8f",
+    "references/成稿执行标准.md": "8acfb671e73080fe3f537bf725973968b60df7476ff3b9d879e77eead3b4fc60",
+    "references/正文写作.md": "86411fe788398761915ac23abe56650c87df528d4397fb338c04d21099b121c1",
+    "references/论证结构.md": "08edc71b8fa6cc13977e81fd55a3d1ecc42ac33381dad5c9588a3f42e98a06ef",
+    "references/证据整理.md": "f27af519a8ae1432967e6ee1cf7d167a7583e4823ac9645f36db2ca129be6fd3"
+  }
+}
